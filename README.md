@@ -35,7 +35,7 @@
 
 
 ## Requirements
-1. Required Metamsak Wallet
+1. Required Metamask Wallet
 2. [Vite](https://vitejs.dev/guide/)
 3. The source code of this project is written in this tools and technology `solidity`, `mocha`, `JavaScript`, `Alchemy Api`. So, you would require the Alchemy account and a valid Alchemy Api Key to run this project.
 
@@ -50,6 +50,16 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dharma09/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/im_dharma09/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/im_Dharma09) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@dharmik786)
 
-```sol
-prgma solidity ^0.6.0'
+```solidity
+pragma solidity ^0.8.0;
+
+contract Mozart{
+
+string public ifYouEnjoyed="starRepository";
+
+
+ function getMessage()public view returns(string memory){
+ return ifYouEnjoyed;
+ }
+}
 ```
