@@ -20,7 +20,7 @@
 </p>
 
 <h3> Live site !!
- https://moz4rt.netlfy.app
+ https://moz4rt.netlify.app
 
 
 ## Features and Interfaces
