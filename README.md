@@ -44,7 +44,7 @@
 
 ## Instructions
 1. This web application only can perform on Rinkeby Test Network.
-2. You can take test Ether from this link!
+2. You can take a test Ether from this link!
 [RinkeBy](https://rinkebyfaucet.com/)
 
 ## Need help?
@@ -61,7 +61,7 @@ string public ifYouEnjoyed="starRepository";
 
 
  function getMessage()public view returns(string memory){
- return ifYouEnjoyed;
+ return ifyounjoyed;
  }
 }
 ```
