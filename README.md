@@ -1,5 +1,5 @@
 # Mozart
-## payment processing and digital money transfers Dapps.
+## payment processing and digital money transfers Dapps..
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Dharma-09/Mozart?logo=github&style=for-the-badge)](https://github.com/Dharma-09/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Dharma-09/Mozart?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
